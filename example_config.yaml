@@ -1,0 +1,18 @@
+---
+filters:
+  doc_length: True
+  mean_word_length: True
+  mean_line_len: True
+  supported_language: True
+  blacklist_urls: True
+  alpha_present: True
+  digit_fraction: True
+  hashtag_to_word_ratio: True
+  ellipsis_to_word_ratio: True
+  stop_word: True
+  initial_bullet_points: True
+  ending_ellipsis: True
+  repetitive: True
+  repetitive_bsp: True
+  smut: True
+...

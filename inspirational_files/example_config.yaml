@@ -1,0 +1,6 @@
+---
+filters:
+  mean_word_length: True
+  blacklist_urls: True
+  doc_length: True
+...
